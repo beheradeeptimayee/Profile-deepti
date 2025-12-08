@@ -1,2 +1,48 @@
-# deepti27
-Hello World,This is my Profile
+# 👋 Hey, I'm Deepti Mayee Behera!
+
+### 🚀 Aspiring Python Developer | Django Enthusiast | Problem Solver
+
+I'm a passionate **Python learner** who loves building small projects, exploring backend development, and improving coding skills every day. I enjoy turning ideas into code and learning new technologies step-by-step.
+
+---
+
+## 🐍 **Tech Stack**
+- **Languages:** Python, HTML, CSS, JavaScript (Basics)
+- **Frameworks:** Django, Flask (learning)
+- **Databases:** SQL(oracle), MySQL
+- **Tools:** Git, GitHub, VS Code
+- **Other:** Bootstrap, REST APIs
+
+---
+
+## 📌 **What I'm Currently Working On**
+- Learning **Django authentication** (login, signup, OTP, password reset)
+- Improving UI styling skills with **Bootstrap** & custom CSS  
+- Building small Python projects to strengthen logic
+
+---
+
+## 🎯 **Goals for 2025**
+- Contribute to open-source Python projects  
+- Build 10+ real-world Django mini-projects  
+- Learn API development & deployment  
+  
+
+
+
+## 📂 **Featured Projects**
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🔐 **Auth System** | User login/signup + password reset | Django, HTML, CSS |
+| 📝 **To-Do App** | Simple CRUD app | Python, Django |
+|
+
+
+## 📫 **Connect With Me**
+- 💼 GitHub: *your-github-link*
+- 📧 Email: deeptimayee2711@gmail.com
+
+
+---
+
+⭐ *Thanks for visiting! Follow me for more Python & Django projects.*  
