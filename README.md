@@ -24,7 +24,7 @@ I'm a passionate **Python learner** who loves building small projects, exploring
 
 ## 🎯 **Goals for 2025**
 - Contribute to open-source Python projects  
-- Build 10+ real-world Django mini-projects  
+- Build  Django mini-projects  
 - Learn API development & deployment  
   
 
