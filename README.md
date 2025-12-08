@@ -39,7 +39,7 @@ I'm a passionate **Python learner** who loves building small projects, exploring
 
 
 ## 📫 **Connect With Me**
-- 💼 GitHub: *your-github-link*
+- 💼 GitHub: https://github.com/beheradeeptimayee
 - 📧 Email: deeptimayee2711@gmail.com
 
 
