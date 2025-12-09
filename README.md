@@ -35,7 +35,7 @@ I'm a passionate **Python learner** who loves building small projects, exploring
 |--------|-------------|------|
 | 🔐 **Auth System** | User login/signup + password reset | Django, HTML, CSS |
 | 📝 **To-Do App** | Simple CRUD app | Python, Django |
-|
+
 
 
 ## 📫 **Connect With Me**
