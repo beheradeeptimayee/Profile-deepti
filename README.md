@@ -14,6 +14,7 @@ I'm a passionate **Python learner** who loves building small projects, exploring
 - **Other:** Bootstrap, REST APIs
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/422f6cc0-0af2-41b8-95af-7fdc6be88aba" />
 
 ## 📌 **What I'm Currently Working On**
 - Learning **Django authentication** (login, signup, OTP, password reset)
