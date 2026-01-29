@@ -35,7 +35,7 @@ I'm a passionate **Python learner** who loves building small projects, exploring
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🔐 **Auth System** | User login/signup + password reset | Django, HTML, CSS |
-| **Restaurant Management and Food Ordering System**|This project is a full-stack restaurant web application developed using Python, Django, HTML, CSS, and SQLite/MySQL. It simulates a real-world food ordering platform where users can register, explore menus, place orders, and track their order progress, while admins can manage the entire system from a backend dashboard.
+| **Restaurant Management and Food Ordering System**|This project is a full-stack restaurant web application . It simulates a real-world food ordering platform where users can register, explore menus, place orders, and track their order progress, while admins can manage the entire system from a backend dashboard.|Python,Django CRUD,Html,Css,Js,Bootstrap|
 | 📝 **To-Do App** | Simple CRUD app | Python, Django |
 
 
